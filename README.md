@@ -1,16 +1,34 @@
-## Yago Oliveira Venci, um viciado em  programação e tecnologia!
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [YAGO OLIVEIRA VENCI](https://www.linkedin.com/in/yagovenci)
+
+##
+
+<p align="left"> 
+ 👨‍💻 <strong>Estudante de ADS </strong> na <strong>Universidade UNINTER</strong>.
+</p>
+<p align="left"> 
+ 🏠  <strong>Campinas-SP</strong>
+</p>
+<p align="left"> 
+ 🚲  <strong>Ciclista MTB</strong>
+</p>
+
 <div align="center">
   <a href="https://www.linkedin.com/in/yagovenci">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yagovenci&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagovenci&layout=compact&langs_count=7&theme=dark"/>
+  
 </div>
-<div style="display: inline_block"><br>
+
+  <p align="left">
+ ☕ HABILIDADES:
+  </p>
+<div style="display: inline_block: align=center"><br>
   <img align="center" alt="Yago-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Yago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Yago-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Yago-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  </div>
   
+
   ##
   
   <div>
