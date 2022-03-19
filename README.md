@@ -20,3 +20,6 @@
   </div>
     
    
+##
+  
+  ![Snake animation](https://github.com/yagovenci/yagovenci/blob/output/github-contribution-grid-snake.svg)
